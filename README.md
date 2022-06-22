@@ -1,2 +1,2 @@
 # Kor_HFMD
-#### This source code includes Log-linear regression for R_t and simulate HFMD cases with the regression coefficient.
+#### This source code includes Log-linear regression for R_t and HFMD simulation using the regression coefficient.
